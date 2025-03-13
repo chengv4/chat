@@ -1,0 +1,1 @@
+const s={login:"/api/auth/login",permissions:"/api/permissions",binds:"/api/binds",menus:"/api/menus",user:"/api/home/user",users:"/api/home/users",pages:"/api/pages",files:"/api/files",chat:"/api/chat"},i="https://8.134.254.168";export{s as a,i as b};

@@ -1,1 +1,0 @@
-const s={login:"/api/auth/login",permissions:"/api/permissions",binds:"/api/binds",menus:"/api/menus",user:"/api/home/user",users:"/api/home/users",pages:"/api/pages",files:"/api/files",chat:"/api/chat"};export{s as a};
