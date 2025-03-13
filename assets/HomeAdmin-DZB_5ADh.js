@@ -1,0 +1,1 @@
+import{_ as o}from"./index-BgOjnbBK.js";import{c as r,o as n}from"./vendor-DJ8gqV4u.js";import"./utils-CNKHhdMi.js";const s=o({},[["render",function(o,s){return n(),r("div",null,"homeAdmin")}]]);export{s as default};
