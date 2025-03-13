@@ -1,0 +1,1 @@
+import{_ as r}from"./index-DHYFN0O-.js";import{c as o,o as t}from"./vendor-BExUNkqn.js";import"./utils-CNKHhdMi.js";const n=r({},[["render",function(r,n){return t(),o("div",null,"input")}]]);export{n as default};

@@ -1,1 +1,0 @@
-import{_ as s}from"./index-D0F4Kqml.js";import{c as r,e as t,o}from"./vendor-BExUNkqn.js";import"./utils-CNKHhdMi.js";const a={class:"page-404"};const e=s({},[["render",function(s,e){return o(),r("div",a,e[0]||(e[0]=[t("img",{src:"/chat/assets/404-DlCmLWZF.svg"},null,-1)]))}]]);export{e as default};
