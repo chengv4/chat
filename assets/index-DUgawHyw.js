@@ -1,1 +1,0 @@
-import{_ as s}from"./index-BgOjnbBK.js";import{c as r,e as o,o as t}from"./vendor-DJ8gqV4u.js";import"./utils-CNKHhdMi.js";const e={class:"page-404"};const a=s({},[["render",function(s,a){return t(),r("div",e,a[0]||(a[0]=[o("img",{src:"/assets/404-DlCmLWZF.svg"},null,-1)]))}]]);export{a as default};
